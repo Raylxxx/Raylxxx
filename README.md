@@ -1,13 +1,13 @@
 <div align="center">
   <!-- 打字动画：修改 lines= 后的文字，多句用 ; 分隔 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&size=27&lines=console.log(%22Hello%2C%20World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&size=27&lines=console.log(%22Hello%2C%20World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5!" alt="Typing SVG" /></a>
 
   <!-- 社交徽章：不需要的整行删掉 -->
   <div>
-    <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?logo=github&logoColor=fff" /></a>&emsp;
-    <a href="https://space.bilibili.com/你的B站UID"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-邮箱-0078D4" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=orange&style=flat" alt="访问量" />
+    <a href="https://github.com/Raylxxx"><img src="https://img.shields.io/badge/GitHub-Raylxxx-181717?logo=github&logoColor=fff" /></a>&emsp;
+    <a href="https://space.bilibili.com/1527640145"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=fff" /></a>&emsp;
+    <a href="mailto:dyxx1123@gmail.com"><img src="https://img.shields.io/badge/Email-dyxx1123%40gmail.com-EA4335?logo=gmail&logoColor=fff" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Raylxxx&label=Views&color=orange&style=flat" alt="访问量" />
   </div>
 
   <br/>
@@ -46,16 +46,16 @@ We're making the world a better place. Through constructing elegant hierarchies 
 
   <!-- 连续提交天数 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raylxxx&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raylxxx&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raylxxx&theme=default&hide_border=true" />
   </picture>
 
   <!-- 常用语言 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylxxx&layout=compact&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylxxx&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylxxx&layout=compact&hide_border=true" />
   </picture>
 
   <!-- 3D 贡献图（由 contrib.yml 每天生成） -->
@@ -66,3 +66,4 @@ We're making the world a better place. Through constructing elegant hierarchies 
   </picture>
 
 </div>
+
