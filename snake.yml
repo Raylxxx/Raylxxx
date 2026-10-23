@@ -1,0 +1,38 @@
+name: Snake Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点（北京时间 8 点）
+  workflow_dispatch:      # 允许手动运行
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/profile-snake-contrib/github-contribution-grid-snake.svg
+            dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: commit & push
+        run: |
+          mkdir -p repo/profile-snake-contrib
+          cp dist/profile-snake-contrib/*.svg repo/profile-snake-contrib/
+          cd repo
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-snake-contrib
+          git commit -m "update snake" || echo "Nothing to commit"
+          git pull --rebase
+          git push
