@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- 打字动画：修改 lines= 后的文字，多句用 ; 分隔 -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&size=27&lines=console.log(%22Hello%2C%20World%22);%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5!" alt="Typing SVG" /></a>
 
-  <!-- 社交徽章：不需要的整行删掉 -->
   <div>
     <a href="https://github.com/Raylxxx"><img src="https://img.shields.io/badge/GitHub-Raylxxx-181717?logo=github&logoColor=fff" /></a>&emsp;
     <a href="https://space.bilibili.com/1527640145"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=fff" /></a>&emsp;
@@ -12,7 +10,7 @@
 
   <br/>
 
-  <!-- 贪吃蛇贡献图（由 snake.yml 每天生成） -->
+  <!-- 贪吃蛇贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
